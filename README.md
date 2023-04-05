@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Game
+Designed a game using JavaScript
